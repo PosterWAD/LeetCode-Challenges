@@ -10,3 +10,4 @@ class Solution {
             return (left == right) ? true : false;
         }
     };
+    
